@@ -2,3 +2,5 @@ denemeeee
 jhedfljkhedfğfğog
 dfojflkjfgp
 lhdd
+
+değişikliklerkaydoluyr mu şlklkjsdfğ
