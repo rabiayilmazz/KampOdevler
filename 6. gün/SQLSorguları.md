@@ -1,6 +1,4 @@
-denemeeee
-jhedfljkhedfğfğog
-dfojflkjfgp
-lhdd
-
-değişikliklerkaydoluyr mu şlklkjsdfğ
+* bir tablonun içeriğini listelemek için;
+'''
+SELECT * FROM Customers;
+'''
